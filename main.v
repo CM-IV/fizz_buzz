@@ -1,7 +1,5 @@
 module main
 
-import os { input }
-
 fn fizz_buzz() {
 
 	for i := 1; i <=100; i++ {
